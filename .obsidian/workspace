@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "73a9b6fd2e4bc1e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b5592cb7f33a0a8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Oveloading, type classes and polymorphism.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f0e62c75032c160",
+    "type": "split",
+    "children": [
+      {
+        "id": "9842ed1c5ac387fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fe49c9344ebdd92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fdc742fd881b89e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3759e21672d0fcc3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 288.50000190734863
+  },
+  "right": {
+    "id": "c78b4345b25837b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c252a51a56ee850d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d28dbd1b2ff1b92f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Oveloading, type classes and polymorphism.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ebd3f4e22bea1ff9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Oveloading, type classes and polymorphism.md"
+              }
+            }
+          },
+          {
+            "id": "9a9323657fc6927c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4c88f3cb360c33e7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "024fe41727be03f4",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 274
+  },
+  "active": "9b5592cb7f33a0a8",
+  "lastOpenFiles": [
+    "Syntax Notes.md",
+    "Functions.md",
+    "Haskell learning.md",
+    "Lists.md",
+    "Fatoração de expressões algébricas.md",
+    "Basic types.png",
+    "2022-10-26.md",
+    "2022-10-03.md",
+    "2022-08-16.md",
+    "2021/08 - August/2021-08-31.md"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "baseFontSize": 16,
+  "translucency": false,
+  "cssTheme": "Things",
+  "theme": "obsidian",
+  "accentColor": "#61a0d1",
+  "interfaceFontFamily": "Segoe UI,Calibri,Arial",
+  "monospaceFontFamily": "Source Code Pro",
+  "textFontFamily": "Arial",
+  "nativeMenus": true
+}

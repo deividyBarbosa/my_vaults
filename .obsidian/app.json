@@ -1,0 +1,30 @@
+{
+  "obsidianCss": true,
+  "spellcheck": true,
+  "foldIndent": true,
+  "foldHeading": true,
+  "fileSortOrder": "alphabetical",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./",
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "strictLineBreaks": false,
+  "defaultViewMode": "preview",
+  "showLineNumber": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 79
+  },
+  "promptDelete": false,
+  "readableLineLength": true,
+  "legacyEditor": false,
+  "livePreview": true,
+  "showInlineTitle": false,
+  "spellcheckLanguages": [
+    "pt-BR",
+    "en-US"
+  ]
+}

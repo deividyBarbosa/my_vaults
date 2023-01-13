@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "path:C",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Geografia",
+      "color": {
+        "a": 1,
+        "rgb": 893047
+      }
+    },
+    {
+      "query": "path:Redação",
+      "color": {
+        "a": 1,
+        "rgb": 16089856
+      }
+    },
+    {
+      "query": "path:Matemática",
+      "color": {
+        "a": 1,
+        "rgb": 2903277
+      }
+    },
+    {
+      "query": "path:Biologia",
+      "color": {
+        "a": 1,
+        "rgb": 6416163
+      }
+    },
+    {
+      "query": "path:Literatura",
+      "color": {
+        "a": 1,
+        "rgb": 10965728
+      }
+    },
+    {
+      "query": "path:PREUNI/Português",
+      "color": {
+        "a": 1,
+        "rgb": 15201081
+      }
+    },
+    {
+      "query": "path:PREUNI/História",
+      "color": {
+        "a": 1,
+        "rgb": 16715008
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 2.71006249112342,
+  "lineSizeMultiplier": 2.74712643678161,
+  "collapse-forces": false,
+  "centerStrength": 0.569024286322966,
+  "repelStrength": 13.3802016758983,
+  "linkStrength": 1,
+  "linkDistance": 257,
+  "scale": 0.7803877081130937,
+  "close": false
+}
