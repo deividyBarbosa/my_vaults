@@ -33,7 +33,36 @@ int main(){
 ```
 # Instruções primitivas
 - `printf()` 
+	- `printf("texto %<formato_da_saída> texto", <expressão>")`
 	- escreve uma mensagem na tela 
-- `scanf()`  
+	- `.<numero de casas decimais>`
+		- usado para limitar o número de casas decimais de um float ou double
+- `scanf()` 
+	- `scanf("%<formato_da_entrada>, &<variável>")`
 	- lê um dado inserido pelo usuário, armazenando-o em uma variável
-- 
+- Instrução de atribuição
+	- `<variável> = <valor> ou <expressão>`
+		- Ex: `int Idade = 19`
+		  
+	- Atribui um valor a uma **[[variável]]** ou [[constantes|constante]]
+# Operadores aritméticos
+Operações matemáticas básicas
+- \+
+- \-
+- \*
+- / 
+- % 
+	- resto da divisão
+- ++  
+- \-\-
+# Operadores relacionais
+- == 
+- != 
+- <= 
+- \>= 
+- <
+- \>
+# Operadores lógicos
+- && 
+- || 
+- !

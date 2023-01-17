@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/C.md",
+                "file": "C/variável.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/C.md",
+                "file": "C/variável.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/C.md"
+                "file": "C/variável.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/C.md",
+                "file": "C/variável.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,6 +154,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -161,22 +163,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "audio-recorder:Start/stop recording": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "audio-recorder:Start/stop recording": false
     }
   },
   "active": "19261bf51d49f24d",
   "lastOpenFiles": [
     "C/Programação.md",
-    "C/Linguagem de alto nível.md",
     "C/Paradigmas de programação.md",
-    "C/C error list.md",
+    "C/Linguagem de alto nível.md",
+    "C/Identificadores.md",
     "C/C.md",
+    "C/constantes.md",
+    "C/variável.md",
+    "C/C error list.md",
     "Diary/2022-08-16.md",
-    "C/stdio.md",
-    "C/`stdio`.md",
-    "Templates/C code.md",
-    "Diary/2021/10 - October/2021-10-24.md"
+    "C/stdio.md"
   ]
 }

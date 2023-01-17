@@ -4,6 +4,4 @@
 
 ## Programação Imperativa
 
-^49c57c
-
 - O programa é estruturado como uma sequência de instruções que são executadas em ordem
