@@ -1,0 +1,2 @@
+- Stands for HyperText Markup Language
+- Used to write the structure

@@ -8,18 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "19261bf51d49f24d",
+            "id": "39bcace2636e285c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/variável.md",
+                "file": "C/constantes.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/variável.md",
+                "file": "C/constantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/variável.md"
+                "file": "C/constantes.md"
               }
             }
           },
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/variável.md",
+                "file": "C/constantes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,13 +145,29 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "f98d227f6a2246c4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "872fafaef0e7f837",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 456.5,
-    "collapsed": true
+    "width": 456.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,17 +183,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "19261bf51d49f24d",
+  "active": "39bcace2636e285c",
   "lastOpenFiles": [
-    "C/Programação.md",
-    "C/Paradigmas de programação.md",
-    "C/Linguagem de alto nível.md",
-    "C/Identificadores.md",
     "C/C.md",
-    "C/constantes.md",
+    "HTML/HTML.md",
+    "Templates/C code.md",
+    "C/Untitled.md",
+    "C/Prática.md",
+    "C/Identificadores.md",
+    "C/Programação.md",
     "C/variável.md",
-    "C/C error list.md",
-    "Diary/2022-08-16.md",
-    "C/stdio.md"
+    "C/Paradigmas de programação.md",
+    "C/Linguagem de alto nível.md"
   ]
 }

@@ -46,7 +46,6 @@ int main(){
 		  
 	- Atribui um valor a uma **[[variável]]** ou [[constantes|constante]]
 # Operadores aritméticos
-Operações matemáticas básicas
 - \+
 - \-
 - \*
@@ -66,3 +65,7 @@ Operações matemáticas básicas
 - && 
 - || 
 - !
+# Comentários
+- Destinados a compreensão do código
+  `// COMENTÁRIO DE UMA LINHA`
+  `/* COMENTÁRIO DE MÚLTIPLAS LINHAS */`
